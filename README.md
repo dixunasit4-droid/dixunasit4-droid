@@ -44,7 +44,7 @@ Email: dixunasit4@gmail.com
 - 👯 I’m looking to collaborate on Deep learning
 - 💬 Ask me about Machine learning, Deep learning, Sql, Power BI
 - 📫 How to reach me: dixunasit4@gmail.com
-- :smile:Transist Career Mathematics teacher -> Data analyst -> AI engineer <br> :star:Great learning experience 
+- :smile:Transitioned from teaching mathematics to data analytics, currently focused on machine learning and AI engineering. <br> :star:Great learning experience 
 
 
 <!--
