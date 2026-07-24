@@ -7,7 +7,7 @@
 I’m a passionate and curious professional currently transitioning into the field of AI Engineering. My journey has been shaped by a strong foundation in mathematics and leadership experience across different roles and countries.
 
 📚 5 years of experience as a Mathematics Teacher in secondary and higher secondary education
-🌍 Relocated to the UK and gained 2.5 years of experience as a Team Leader
+🌍 Relocated to the UK and gained 1.5 years of experience as a Team Leader
 🔢 Lifelong enthusiasm for numbers, problem-solving, and logical thinking
 📊 Currently learning and building skills in Data Analytics and Artificial Intelligence
 🔄 Career Transition
